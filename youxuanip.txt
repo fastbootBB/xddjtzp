@@ -24,7 +24,6 @@
 170.114.46.55:443#CTAnycast/zoom.us
 170.114.46.69:443#CTAnycast/zoom.us
 170.114.46.83:443#CTAnycast/zoom.us
-170.114.46.87:443#CTAnycast/zoom.us
 170.114.46.201:443#CTAnycast/zoom.us
 170.114.46.227:443#CTAnycast/zoom.us
 170.114.46.188:443#CTAnycast/zoom.us
